@@ -1,0 +1,26 @@
+body {
+    background-color: #333 !important;
+}
+
+.card-body {
+    background-color: #222 !important;
+    color: white !important;
+}
+
+.lightswitch {
+    border-color: white !important;
+}
+
+#text {
+    background: black !important;
+    color: white !important;
+}
+
+.modal-content {
+    background-color: #222 !important;
+    color: #fff;
+}
+
+pre code, code  {
+    color: #fff;
+}

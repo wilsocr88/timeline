@@ -1,0 +1,14 @@
+blockquote {
+    color: #090;
+    border-left: 3px solid;
+    padding-left: 8px;
+}
+
+pre code, code {
+    color: #000;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal !important;
+    display: block;
+    padding: 16px;
+    margin: 8px;
+}

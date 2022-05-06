@@ -1,0 +1,53 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p, div, button, body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p.logo-font {
+    font-size: 14pt !important;
+}
+
+.logo-font {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+hr {
+    border: 1px solid black;
+    height: 0;
+}
+
+button {
+    background-color: black !important;
+    color: white !important;
+}
+
+button:hover {
+    background-color: #333 !important;
+}
+
+@media screen and ( max-width: 575px ) {
+    body {
+        overflow-x: hidden;
+    }
+    #main {
+        padding: 0 !important;
+    }
+    #main .row {
+        padding-top: 0 !important;
+    }
+    #main .row .col {
+        padding-right: 14px !important;
+    }
+    #main .row .col .container {
+        padding: 0 !important;
+    }
+    #main .row .col .container .row .col .card {
+        margin: -1px !important;
+    }
+    #footer {
+        padding-left: 16px !important;
+    }
+}

@@ -1,0 +1,15 @@
+body {
+    background-color: #eee;
+}
+
+div, span, button, input {
+    border-radius: 0 !important;
+}
+
+.spinner-border.text-secondary {
+    border-radius: 50% !important;
+}
+
+img {
+    max-width: 300px;
+}

@@ -1,0 +1,11 @@
+.lightswitch {
+    display: block;
+    width: 32px;
+    height: 32px;
+    border: 1px solid black;
+    padding: 3px 7px;
+    margin: 4px;
+    margin-bottom: 16px;
+    float: right;
+    cursor: pointer;
+}

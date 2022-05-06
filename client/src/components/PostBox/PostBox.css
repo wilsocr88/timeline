@@ -1,0 +1,7 @@
+#text {
+    border: none !important;
+    border-bottom: 2px solid black !important;
+    outline: none !important;
+    border-radius: 0 !important;
+    font-family: 'Courier new', Courier, monospace;
+}
