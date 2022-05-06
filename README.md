@@ -1,5 +1,7 @@
 # Timeline
 
+![](https://raw.githubusercontent.com/wilsocr88/timeline/master/client/public/favicon.png)
+
 A completely anonymous text feed with Markdown support. It's "social" without the "media."
 
 ## Prerequisites
